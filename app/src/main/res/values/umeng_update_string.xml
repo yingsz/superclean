@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="UMBreak_Network">Не подключен</string>
+	<string name="UMUpdateTitle">Откройте новую версию</string>
+	<string name="UMNewVersion">Последняя версия:</string>
+	<string name="UMUpdateContent">Обновить контент</string>
+	<string name="UMUpdateSize">Просто скачайте:</string>
+	<string name="UMTargetSize">Размер новой версии:</string>
+	<string name="UMGprsCondition">（Совет: среда, отличная от WIFI)）</string>
+	<string name="UMUpdateNow">Обновить сейчас</string>
+	<string name="UMAppUpdate">Обновление приложения</string>
+	<string name="UMNotNow">Я расскажу об этом позже.</string>
+	<string name="UMIgnore">Игнорировать эту версию</string>
+	<string name="UMToast_IsUpdating">Он обновляется ....</string>
+	<string name="UMDialog_InstallAPK">Последняя версия была загружена, установлена ​​ли она?</string>
+
+
+    <string name="UMUpdateCheck">1.0.0</string>
+</resources>
